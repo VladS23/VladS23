@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">I am a beginner C# developer</h3>
-
-- 🔭 I’m currently working on [YourBoard](https://github.com/VladS23/YourBoard)
 <p align="left">
 </p>
 
